@@ -8,9 +8,9 @@ This week is also something of an experiment using Github to access all of the l
 ### React Review and React Router
 
 #### Whiteboard Questions
-How do we use code and variables from one file in another one in Javascript?
-What does 'super' mean in a React Contructor?
-In a Rails app, imagine we had a 'users' table with an attribute of 'email'.  Write a migration to add 'first_name' and 'last_name' attributes.
+* How do we use code and variables from one file in another one in Javascript?
+* What does 'super' mean in a React Contructor?
+* In a Rails app, imagine we had a 'users' table with an attribute of 'email'.  Write a migration to add 'first_name' and 'last_name' attributes.
 
 #### Group Activities / Pairing Challenges
 * [React Router](https://classroom.github.com/g/RSynp64z)
