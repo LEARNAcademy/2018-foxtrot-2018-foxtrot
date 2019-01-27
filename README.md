@@ -11,6 +11,7 @@ This week is also something of an experiment using Github to access all of the l
 * How do we use code and variables from one file in another one in Javascript?
 * What does 'super' mean in a React Contructor?
 * In a Rails app, imagine we had a 'users' table with an attribute of 'email'.  Write a migration to add 'first_name' and 'last_name' attributes.
+* What is the difference betwen a GET and a POST HTTP request?  Provide an example of the type of page each would be used for.
 
 #### Group Activities / Pairing Challenges
 * [React Router](https://classroom.github.com/g/RSynp64z)
