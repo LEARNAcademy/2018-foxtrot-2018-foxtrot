@@ -31,7 +31,7 @@ How do you access data passed into a component via a dynamic route?
 * [JSON API](https://classroom.github.com/g/7ULZEXuO)
 
 
-### 1/30 Testing React
+## 1/30 Testing React
 
 #### Whiteboard Questions
 What is fetch as it relates to Javascript?
