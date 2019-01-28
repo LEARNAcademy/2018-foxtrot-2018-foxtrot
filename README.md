@@ -23,9 +23,9 @@ This week is also something of an experiment using Github to access all of the l
 ## 1/29 JSON API
 
 #### Whiteboard Questions
-What are the 3 most common components imported from the react-router-dom package?  What do each of them do?
-What is a dynamic route?
-How do you access data passed into a component via a dynamic route?
+* What are the 3 most common components imported from the react-router-dom package?  What do each of them do?
+* What is a dynamic route?
+* How do you access data passed into a component via a dynamic route?
 
 #### Group Activities / Pairing Challenges
 * [JSON API](https://classroom.github.com/g/7ULZEXuO)
@@ -34,9 +34,9 @@ How do you access data passed into a component via a dynamic route?
 ## 1/30 Testing React
 
 #### Whiteboard Questions
-What is fetch as it relates to Javascript?
-What is the difference between a GET and a POST HTTP request?
-What is a nested dynamic route?
-What is the lifecycle of a React component?
+* What is fetch as it relates to Javascript?
+* What is the difference between a GET and a POST HTTP request?
+* What is a nested dynamic route?
+* What is the lifecycle of a React component?
 
 #### Group Activities / Pairing Challenges
