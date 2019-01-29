@@ -15,7 +15,7 @@ This week is also something of an experiment using Github to access all of the l
 
 #### Group Activities / Pairing Challenges
 * [React Router](https://classroom.github.com/g/RSynp64z)
-* [Dynamic Routes](https://classroom.github.com/g/wDfJSJlP)
+* [Dynamic Routes](https://classroom.github.com/g/hoUP0zMm)
 
 #### Individual Challenge
 * [Portfolio](https://classroom.github.com/a/SKlBq3pj)
