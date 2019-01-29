@@ -8,6 +8,7 @@ When you are starting work in a new repo you'll want to set the user for the com
 $ cd into/the/folder/you/are/working/in
 $ git config user.name "yourusername"
 $ git config user.email your@email.com
+```
 
 ## Standard branching and pull request workflow
 
@@ -32,4 +33,4 @@ This workflow roughly translates to these steps/commands:
 5) git commit -m 'add my new feature'
 6) git push origin add_my_new_feature
 7) on the repo page click Compare and Pull Request on the branch, or select your branch from the dropdown and Create Pull Request from that page
-```
+
