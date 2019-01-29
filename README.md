@@ -1,5 +1,8 @@
 # Syllabus
 
+## Links
+* [Git Cheatsheet](./GitCheatSheet.md)
+
 ## 8 - React and Rails
 This week, we are going to dive back into React and learn how to build layered, full featured web applications.  By the end of the week, we'll be testing our code using automated tests, and communicating with the backend.
 
@@ -26,6 +29,8 @@ This week is also something of an experiment using Github to access all of the l
 * What are the 3 most common components imported from the react-router-dom package?  What do each of them do?
 * What is a dynamic route?
 * How do you access data passed into a component via a dynamic route?
+* How do you change your user in git on the command line?
+* What is a Pull Request?
 
 #### Group Activities / Pairing Challenges
 * [JSON API](https://classroom.github.com/g/7ULZEXuO)
