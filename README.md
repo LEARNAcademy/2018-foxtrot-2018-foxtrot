@@ -28,7 +28,7 @@ This week is also something of an experiment using Github to access all of the l
 * How do you access data passed into a component via a dynamic route?
 
 #### Group Activities / Pairing Challenges
-* [JSON API](https://classroom.github.com/g/7ULZEXuO)
+* [JSON API](https://classroom.github.com/g/U8deyOjt)
 
 
 ## 1/30 Testing React
