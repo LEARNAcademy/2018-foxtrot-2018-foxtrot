@@ -2,6 +2,7 @@
 
 ## Links
 * [Git Cheatsheet](./GitCheatSheet.md)
+* [Github Classroom Workflow](./GHClassroomWorkflow.md)
 
 ## 8 - React and Rails
 This week, we are going to dive back into React and learn how to build layered, full featured web applications.  By the end of the week, we'll be testing our code using automated tests, and communicating with the backend.
