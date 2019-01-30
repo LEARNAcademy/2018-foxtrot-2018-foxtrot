@@ -40,3 +40,5 @@ This week is also something of an experiment using Github to access all of the l
 * What is the lifecycle of a React component?
 
 #### Group Activities / Pairing Challenges
+
+* [Testing React](https://classroom.github.com/g/nXu7P-UJ)
