@@ -73,7 +73,7 @@ Today we are going to step deeper into Rails, and see how it can help us render 
 #### Whiteboard Questions
 
 #### Group Activities / Challenges
-* [Authentication](./authentication)
+* [Authentication](./devise-authentication)
 
 ## Wednesday 2/6 - Friday 2/9 Apartment App
 
