@@ -36,7 +36,6 @@ Devise will create some helpers to use inside your controllers and views. To set
 ### 6) Add a resource
 
 ```bash
-rails destroy scaffold Bike brand:string model_year:integer model:string user_id:integer
 rails generate scaffold Bike brand:string model_year:integer model:string user_id:integer
 rails db:migrate
 ```
