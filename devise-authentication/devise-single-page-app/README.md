@@ -173,7 +173,7 @@ cat config/routes.rb
 : end
 ```
 
-## 5) Protect what should be login protected
+## 6) Protect what should be login protected
 
 Now, let's setup our controller to protect what should be protected, and leave alone what is publicly available.
 
@@ -194,7 +194,7 @@ cat -n app/controllers/pages_controller.rb
 :      9	end
 ```
 
-## 6) Routes
+## 7) Routes
 
 Let's audit all of the routes that we are going to need for this app, remembering all the different types we have in play:
 
@@ -224,7 +224,7 @@ cat -n config/routes.rb
 
 ** Keep in mind that routes are read from top to bottom, so order is important.
 
-## 7) Adding the React Router
+## 8) Adding the React Router
 
 ```bash
 yarn add react-router-dom
@@ -268,7 +268,7 @@ cat app/javascript/components/AuthenticatedApp.js
 : export default AuthenticatedApp
 ```
 
-## 8) Displaying Bikes
+## 9) Displaying Bikes
 
 Now we can display a list of bikes to our user.  This assumes that you have some in the database.  Go ahead and add some via the Rails console if you don't.
 
