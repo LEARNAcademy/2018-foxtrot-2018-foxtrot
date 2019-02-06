@@ -141,7 +141,7 @@ When we navigate to those routes, we see our components rendering.  Leave them t
 
 ```bash
 bundle add devise
-rails generate devise install
+rails generate devise:install
 rails generate devise User
 ```
 
@@ -167,9 +167,9 @@ cat config/routes.rb
 ```
 ```result
 : Rails.application.routes.draw do
-:   resources :bikes
 :   devise_for :users
-:   root to: 'bikes#index'
+:   get 'protected', to: 'pages#protected'
+:   get 'unprotected', to: 'pages#unprotected'
 : end
 ```
 
