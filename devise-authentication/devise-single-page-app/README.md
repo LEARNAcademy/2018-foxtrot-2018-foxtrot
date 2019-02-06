@@ -143,6 +143,12 @@ When we navigate to those routes, we see our components rendering.  Leave them t
 ## 5) Protecting our route in the controller
 
 ```bash
+bundle add devise
+rails generate devise install
+rails generate devise User
+```
+
+```bash
 cat -n app/controllers/pages_controller.rb
 ```
 ```result

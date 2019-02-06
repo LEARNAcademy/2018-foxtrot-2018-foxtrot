@@ -59,7 +59,7 @@ Today we are going to step deeper into Rails, and see how it can help us render 
 * What does MVC stand for?
 * What does API stand for?
 * What is the difference between a GET and  POST request?
-* What is the <head> section of an HTML page?  What content goes in there?
+* What is the ```<head>``` section of an HTML page?  What content goes in there?
 * What is the head section of an HTTP request?  What type of content goes in there?
 * How do you define the default route in rails?
 * How do you define a default route in React-Router-Dom?
