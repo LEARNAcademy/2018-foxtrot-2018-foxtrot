@@ -132,9 +132,6 @@ cat config/routes.rb
 : Rails.application.routes.draw do
 :   get 'protected', to: 'pages#protected'
 :   get 'unprotected', to: 'pages#unprotected'
-:   resources :bikes
-:   devise_for :users
-:   root to: 'bikes#index'
 : end
 ```
 
