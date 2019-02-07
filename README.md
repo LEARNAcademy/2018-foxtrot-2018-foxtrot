@@ -80,5 +80,6 @@ Today we are going to step deeper into Rails, and see how it can help us render 
 
 This is the final project before we begin group projects.  It's important to make sure you nail the fundamentals when working on this application.  Make sure that you understand each piece of what you and your pair are working on.  All of the concepts in the apartment app will be in play again next week when we begin group projects.
 
-##### Group Activity
-* [Apartment App](./apartment-app)
+##### Pair Activity
+* [Apartment App](https://classroom.github.com/g/Uyr3AmzK)
+
